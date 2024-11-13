@@ -40,6 +40,7 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
             topLeft: const Radius.circular(2.0),
             topRight: const Radius.circular(2.0),
           ),
+          onApplyClicked: () {},
         ),
       ),
       actions: [
